@@ -1,17 +1,17 @@
 <template>
-  <p class="judul-produk mt-20" id="produk">
-    Produk Muscle King
+  <p class="judul-produk mt-5">
+    Merchendise Muscle King
   </p>
   <div class="grid grid-cols-3 gap-3 mt-20 mb-10" style="margin-left: 40px;">
     <div>
       
-        <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+      <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img class="p-8 rounded-t-lg" src="../assets/produk/p1.jpg" alt="" />
+        <img class="p-8 rounded-t-lg" src="../assets/produk/p4.jpg" alt="" />
     </a>
     <div class="px-5 pb-5">
         <a href="#">
-            <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">Barbel 5-50 kg</h5>
+            <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">Kaos Dry Gym</h5>
         </a>
         <div class="flex items-center mt-2.5 mb-5">
             <svg class="w-4 h-4 text-yellow-300 mr-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
@@ -32,22 +32,21 @@
             <span class="bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">5.0</span>
         </div>
         <div class="flex items-center justify-between">
-            <span class="text-3xl font-bold text-gray-900 dark:text-white">Rp.350.000-,</span>
+            <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span>
             <a href="#" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
         </div>
     </div>
 </div>
-
     </div>
     <div>
       
 <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img class="p-8 rounded-t-lg" src="../assets/produk/p2.jpg" alt="" />
+        <img class="p-8 rounded-t-lg" src="../assets/produk/p5.jpg" alt="" />
     </a>
     <div class="px-5 pb-5">
         <a href="#">
-            <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">treadmill 50km/h</h5>
+            <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">Kaos harmmour dry - gym</h5>
         </a>
         <div class="flex items-center mt-2.5 mb-5">
             <svg class="w-4 h-4 text-yellow-300 mr-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
@@ -79,11 +78,11 @@
       
 <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img class="p-8 rounded-t-lg" src="../assets/produk/p3.jpg" alt="" style="width: 400px;"/>
+        <img class="p-8 rounded-t-lg" src="../assets/produk/p6.jpg" alt="" style="width: 400px;"/>
     </a>
     <div class="px-5 pb-5">
         <a href="#">
-            <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">Protein ProJym 1kg</h5>
+            <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">short pants - ProJym</h5>
         </a>
         <div class="flex items-center mt-2.5 mb-5">
             <svg class="w-4 h-4 text-yellow-300 mr-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
@@ -112,16 +111,4 @@
 
     </div>
   </div>
-  
 </template>
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@700&display=swap');
-.judul-produk{
-  font-family: 'Montserrat Alternates', sans-serif;
-  font-size: 30px;
-  text-align: center;
-}
-template{
-    background-image: url(file:///C:/Users/Kelompok%204/Downloads/stacked-peaks-haikei.svg);
-}
-</style>

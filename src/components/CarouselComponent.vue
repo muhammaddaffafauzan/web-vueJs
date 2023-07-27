@@ -7,8 +7,11 @@
   <div class="basis-1/2">
       <p class="selamatDatang" style="margin-top: 100px;">Selamat datang di Muscle King</p>
       <p class="sambutan">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum nisi, odio id, molestiae nulla rem, quisquam ipsa est eveniet ipsam numquam? <br>Ducimus itaque, eos officiis optio iusto labore sapiente veniam?
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum nisi, <br>
+         odio id, molestiae nulla rem, quisquam ipsa est eveniet ipsam numquam? <br>
+        Ducimus itaque, eos officiis optio iusto labore sapiente veniam?
       </p>
+      
   </div>
 </div>
 

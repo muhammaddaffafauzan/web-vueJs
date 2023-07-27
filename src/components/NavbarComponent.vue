@@ -2,7 +2,7 @@
 import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
 </script>
 <template>
-    <Navbar>
+    <Navbar fixed="top">
       <template #logo>
         <NavbarLogo link="#" alt="Flowbite logo" image-url="https://www.pngplay.com/wp-content/uploads/2/Muscle-PNG-Free-File-Download.png">
           Muscle King
@@ -11,9 +11,9 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
       <template #default="{isShowMenu}">
         <NavbarCollapse :isShowMenu="isShowMenu">
           <NavbarLink isActive link="#">Home</NavbarLink>
-          <NavbarLink link="#">About</NavbarLink>
-          <NavbarLink link="#">Product</NavbarLink>
-          <NavbarLink link="#">Contact</NavbarLink>
+          <NavbarLink link="#wave">About</NavbarLink>
+          <NavbarLink link="#produk">Produk</NavbarLink>
+          <NavbarLink link="#footer">kontak</NavbarLink>
         </NavbarCollapse>
       </template>
       <template #right-side>
@@ -25,3 +25,8 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
       
     </Navbar>
 </template>
+<style>
+ html{
+     scroll-behavior: smooth;;
+   }
+</style>
