@@ -31,10 +31,10 @@
       </timeline-point>
       <timeline-content>
         <timeline-time>
-          February 2022
+          Januari 2022
         </timeline-time>
         <timeline-title>
-          Application UI code in Tailwind CSS
+         Muscle king baru di bangun
         </timeline-title>
         <timeline-body>
           Get access to over 20+ pages including a dashboard layout, charts, kanban board, calendar, and pre-order E-commerce & Marketing pages.
@@ -47,10 +47,10 @@
       </timeline-point>
       <timeline-content>
         <timeline-time>
-          February 2022
+          maret 2023
         </timeline-time>
         <timeline-title>
-          Application UI code in Tailwind CSS
+          Tahap perkembangan muscle king
         </timeline-title>
         <timeline-body>
           Get access to over 20+ pages including a dashboard layout, charts, kanban board, calendar, and pre-order E-commerce & Marketing pages.
@@ -63,10 +63,10 @@
       </timeline-point>
       <timeline-content>
         <timeline-time>
-          February 2022
+          juli 2023
         </timeline-time>
         <timeline-title>
-          Application UI code in Tailwind CSS
+        Muscle King telah meraih prestasi Nasional
         </timeline-title>
         <timeline-body>
           Get access to over 20+ pages including a dashboard layout, charts, kanban board, calendar, and pre-order E-commerce & Marketing pages.
